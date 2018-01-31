@@ -25,7 +25,7 @@ You can click https://sites.google.com/site/limkwanhui/datacode#ijcai15 to downl
 # Usage
 To generate the results from scratch, please follow these five steps:
 
-* Creat the trajectory by excute /CATHI/code/data/createTraj.py.
+* Creat the trajectory by excute `createTraj.py`.
 * Use `bash setup.sh` to create the directories to store results locally, and copy train and test data with proper naming.
 * Run `train.py` to train the model. You will get the ckpt file at path: /code/tf_data_traj/nn_models.
 * Sequentially run `Trajectory_Prediction.py` to predict trajectory. The results are in /code/tf_data_traj/results.
