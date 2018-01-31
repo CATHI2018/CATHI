@@ -1,6 +1,3 @@
-# Overview
-Code and Datasets for the paper: Context-aware Trajectory Embedding and Human Mobility Inference
-
 # Datasets
 
 There are three datasets: Flicker,Geolife and Tokyo.
@@ -26,11 +23,11 @@ The format of dataset,for example:
 # Usage
 To generate the results from scratch, please follow these fiver steps:
 
-*Creat the trajectory by excute /CATHI/code/data/createTraj.py.
-*Use `bash setup.sh` to create the directories to store results locally, and copy train and test data with proper naming.
-*Run `train.py` to train the model. You will get the ckpt file at path: /code/tf_data_traj/nn_models.
-*Sequentially run `Trajectory_Prediction.py` to predict trajectory. The results are in /code/tf_data_traj/results.
-*Finally, you can calculate F1 and pairs-F1 by running `F1AndPairsF1.py`.
+* Creat the trajectory by excute /CATHI/code/data/createTraj.py.
+* Use `bash setup.sh` to create the directories to store results locally, and copy train and test data with proper naming.
+* Run `train.py` to train the model. You will get the ckpt file at path: /code/tf_data_traj/nn_models.
+* Sequentially run `Trajectory_Prediction.py` to predict trajectory. The results are in /code/tf_data_traj/results.
+* Finally, you can calculate F1 and pairs-F1 by running `F1AndPairsF1.py`.
 
 # Requirements
 
