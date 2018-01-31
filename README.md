@@ -4,13 +4,13 @@ There are three datasets: Flicker,Geolife and Tokyo.
 
 The format of dataset, for example:
 
-poi-Edin.csv: POI data in Edinburgh.
+>poi-Edin.csv: POI data in Edinburgh.
 * poiID: POI identity
 * poiCat: POI category
 * poiLon: POI longitude
 * poiLat: POI latitude
 
-traj-Edin.csv: Trajectories in Edinburgh.
+>traj-Edin.csv: Trajectories in Edinburgh.
 * userID: User identity
 * trajID: Trajectory identity
 * poiID: POI identity
