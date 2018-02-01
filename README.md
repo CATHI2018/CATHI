@@ -1,6 +1,6 @@
 # Datasets
 
-There are three datasets: Flicker,Geolife and Foursquare.
+There are three datasets: Flicker, Geolife and Foursquare.
 
 The format of dataset are as follows:
 
