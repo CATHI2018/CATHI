@@ -1,8 +1,8 @@
 # Datasets
 
-There are three datasets: Flicker,Geolife and Tokyo.
+There are three datasets: Flicker,Geolife and Foursquare.
 
-The format of dataset, for example:
+The format of dataset are as follows:
 
 > poi-Edin.csv: POI data in Edinburgh.
 * poiID: POI identity
