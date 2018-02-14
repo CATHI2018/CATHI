@@ -1,5 +1,5 @@
 '''
-YUEXIAOLI---CATHI
+CATHI
 '''
 
 #!/usr/bin/env bash
