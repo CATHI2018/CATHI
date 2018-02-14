@@ -33,5 +33,5 @@ To generate the results from scratch, please follow these five steps:
 
 # Requirements
 
-python: 2.7.12
+python: 2.7.12<br>
 Tensorflow-gpu: 1.0.0
