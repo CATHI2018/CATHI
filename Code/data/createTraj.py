@@ -1,5 +1,5 @@
 '''
-YUEXIAOLI---CATHI
+CATHI
 '''
 
 import os, sys, time, pickle, tempfile
